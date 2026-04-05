@@ -15,7 +15,7 @@
 
 - 🤝 Disponible para: **Freelance / Colaboraciones**
 
-- 📚 Aprendiendo ahora: **[Ingenieria en Software multiplataforma]**
+- 📚 Aprendiendo ahora: **Ingenieria en Desarollo y gestion de Software multiplataforma**
 
 <!-- - 📝 Publico articulos en: **[Tu blog o perfil de articulos]** -->
 
