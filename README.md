@@ -11,7 +11,7 @@
 
 - 🔭 Actualmente trabajo en: **Buscando empleo**
 
-- 🌱 Actualmente estoy trabajando en: **[[Dotfiles ArchHyperland](https://github.com/Sadrach34/Dotfiles)]**
+- 🌱 Actualmente estoy trabajando en: **[[Dotfiles Arch+Hyprland](https://github.com/Sadrach34/Dotfiles)]**
 
 - 🤝 Disponible para: **Freelance / Colaboraciones**
 
