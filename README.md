@@ -45,7 +45,7 @@
             <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram">
         </a>
 		<a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/585591788417581056">
-            <img src="assets/Discord.png" alt="Discord">
+            <img src="assets/Discord.png" width="40" alt="Discord">
         </a>
         </a>
         <a style="margin-left: 5px;" target="_blank" href="assets/cv SJDGF E.pdf">
