@@ -11,7 +11,7 @@
 
 - 🔭 Currently: **Kngura**
 
-- 🌱 Currently working on: **[[Dotfiles Arch+Hyprland](https://github.com/Sadrach34/Dotfiles)]**
+- 🌱 Currently working on: **[[Sdrx / Hyprland Dots Archlinux](https://github.com/Sadrach34/Dotfiles)]**
 
 - 🤝 Available for: **Freelance / Collaborations**
 
