@@ -9,7 +9,7 @@
     <img align="right" top="500" height="400" width="400" alt="GIF" src="assets/Aperture Science.gif">
 </a>
 
-- 🔭 Currently: **Looking for a job**
+- 🔭 Currently: **Kngura**
 
 - 🌱 Currently working on: **[[Dotfiles Arch+Hyprland](https://github.com/Sadrach34/Dotfiles)]**
 
